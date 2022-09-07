@@ -32,9 +32,22 @@ The available models can be trained by typing ```python training.py``` in the te
 
 The experiments reported in the cited paper can be found in the ```evaluation.ipynb``` notebook.
 
-## Citation (temporary)
+## Citation
 
-Boccato, T.; Testolin, A.; Zorzi, M. Learning Numerosity Representations with Transformers. *Preprints* **2021**, 2021050401 (doi: 10.20944/preprints202105.0401.v1).
+```
+@Article{e23070857,
+AUTHOR = {Boccato, Tommaso and Testolin, Alberto and Zorzi, Marco},
+TITLE = {Learning Numerosity Representations with Transformers: Number Generation Tasks and Out-of-Distribution Generalization},
+JOURNAL = {Entropy},
+VOLUME = {23},
+YEAR = {2021},
+NUMBER = {7},
+ARTICLE-NUMBER = {857},
+URL = {https://www.mdpi.com/1099-4300/23/7/857},
+ISSN = {1099-4300},
+DOI = {10.3390/e23070857}
+}
+```
 
 ---
 
