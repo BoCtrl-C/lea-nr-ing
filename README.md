@@ -1,6 +1,6 @@
 # Learning Numerosity Representations with Transformers
 
-This repository contains the source code used to produce the results presented in *"[Learning Numerosity Representations with Transformers](https://www.preprints.org/manuscript/202105.0401/v1)"*. The work shows that attention-based architectures operating at the pixel level can learn to produce well-formed images approximately containing a specific number of items, even when the target numerosity is not present in the training distribution. The Figure below reports 3 example attention graphs describing the *spontaneous generation* (from left to right) of a novel image.
+This repository contains the source code used to produce the results presented in *"[Learning Numerosity Representations with Transformers: Number Generation Tasks and Out-of-Distribution Generalization](https://www.mdpi.com/1099-4300/23/7/857)"*. The work shows that attention-based architectures operating at the pixel level can learn to produce well-formed images approximately containing a specific number of items, even when the target numerosity is not present in the training distribution. The Figure below reports 3 example attention graphs describing the *spontaneous generation* (from left to right) of a novel image.
 
 <img src="figures/ag_1.png" height="200"><img src="figures/ag_2.png" height="200"><img src="figures/ag_3.png" height="200">
 
